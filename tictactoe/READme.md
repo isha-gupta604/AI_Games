@@ -31,7 +31,7 @@ It can be played in the terminal or command prompt by two players.
 2. Navigate to the project folder:
 
    ```
-   cd AI_Games
+   cd tictactoe
    ```
 3. Run the Python file:
 
@@ -50,15 +50,6 @@ It can be played in the terminal or command prompt by two players.
 
 ---
 
-## 📁 Project Structure
-
-```
-├── tictactoe.py
-└── README.md
-```
-
----
-
 ## 🧠 Learning Highlights
 
 * Used functions for modular design
@@ -70,7 +61,6 @@ It can be played in the terminal or command prompt by two players.
 ## 👩‍💻 Author
 
 **Isha Gupta**
-B.Tech AI & Data Science | Aspiring Developer
 [LinkedIn](linkedin.com/in/isha-gupta-3409b7314) | [GitHub](https://github.com/isha-gupta604)
 
 ---
