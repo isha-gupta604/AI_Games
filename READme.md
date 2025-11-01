@@ -1,76 +1,37 @@
-# 🎮 Tic Tac Toe Game (Python)
+# 🧠 AI_Games
 
-A simple **Tic Tac Toe** game built using **Python**.
-This project demonstrates core programming concepts such as condition checking, loops, and handling user input.
-It can be played in the terminal or command prompt by two players.
-
----
-
-## 🧩 Features
-
-* Two-player game (Player X vs Player O)
-* Input validation (prevents overwriting of moves)
-* Automatic detection of win, loss, or draw
-* Simple command-line interface
+A collection of small AI and logic-based Python games and simulations.  
+This repository is meant to experiment with algorithms, logical puzzles, and basic AI behaviors.
 
 ---
 
-## 🛠️ Technologies Used
+## 🎮 Contents
 
-* **Python 3** 
+### 1️⃣ Tic Tac Toe
+- A simple command-line Tic Tac Toe game with an AI opponent.
+- Implements the Minimax algorithm for optimal move selection.
+
+### 2️⃣ Gravity Box (Stones Falling Simulation)
+- Simulates stones falling due to gravity in an M×N box.
+- Optionally rotates the box left or right and re-applies gravity.
+- Demonstrates 2D array manipulation and simulation logic.
 
 ---
 
-## 🚀 How to Run the Game
+## 🚀 How to Run
 
-1. Clone this repository or download the ZIP file.
-
-   ```
+1. Clone the repository:
+   ```bash
    git clone https://github.com/isha-gupta604/AI_Games.git
-   ```
-2. Navigate to the project folder:
-
-   ```
    cd AI_Games
-   ```
-3. Run the Python file:
-
-   ```
+2. Run any game:
    python tictactoe.py
-   ```
+   python gravity_box.py
+3. Make sure Python 3.x is installed on your system.
 
----
+👩‍💻 Author
 
-## 🧠 How to Play
+Isha Gupta
 
-1. The game displays a 3×3 board with numbered positions (1–9).
-2. Players take turns entering the number of the position where they want to place their mark (X or O).
-3. The game ends when a player wins or the board is full (draw).
-4. You can restart the game by running the program again.
+📧 Contributions, ideas, or bug reports are welcome!
 
----
-
-## 📁 Project Structure
-
-```
-├── tictactoe.py
-└── README.md
-```
-
----
-
-## 🧠 Learning Highlights
-
-* Used functions for modular design
-* Practiced conditional statements and loops
-* Implemented win condition logic and error handling
-
----
-
-## 👩‍💻 Author
-
-**Isha Gupta**
-B.Tech AI & Data Science | Aspiring Developer
-[LinkedIn](linkedin.com/in/isha-gupta-3409b7314) | [GitHub](https://github.com/isha-gupta604)
-
----
